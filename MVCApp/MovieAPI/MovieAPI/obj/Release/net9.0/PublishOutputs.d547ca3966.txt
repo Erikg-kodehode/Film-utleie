@@ -1,0 +1,9 @@
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\MovieAPI.exe
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\appsettings.Development.json
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\appsettings.json
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\MovieAPI.dll
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\MovieAPI.deps.json
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\MovieAPI.runtimeconfig.json
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\MovieAPI.pdb
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MovieAPI\bin\Release\net9.0\publish\Microsoft.OpenApi.dll

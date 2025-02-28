@@ -1,0 +1,17 @@
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\bin\Debug\net9.0\MVCApp.exe
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\bin\Debug\net9.0\MVCApp.deps.json
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\bin\Debug\net9.0\MVCApp.runtimeconfig.json
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\bin\Debug\net9.0\MVCApp.dll
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\bin\Debug\net9.0\MVCApp.pdb
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.csproj.AssemblyReference.cache
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.AssemblyInfoInputs.cache
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.AssemblyInfo.cs
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.csproj.CoreCompileInputs.cache
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.csproj.Up2Date
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.dll
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\refint\MVCApp.dll
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.pdb
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\MVCApp.genruntimeconfig.cache
+C:\Users\erikg\Documents\Dev\Backend\Film utleie\MVCApp\MovieAPI\MVCApp\obj\Debug\net9.0\ref\MVCApp.dll
