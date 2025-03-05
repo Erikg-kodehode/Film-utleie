@@ -1,0 +1,44 @@
+version: "3.8"
+
+services:
+  database:
+    image: postgres:latest
+    container_name: docker-database-1
+    restart: always
+    environment:
+      POSTGRES_DB: moviesdb
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    networks:
+      - mynetwork
+    healthcheck:
+      test: [ "CMD", "pg_isready", "-U", "user", "-d", "moviesdb" ]
+      interval: 5s
+      retries: 5
+      timeout: 3s
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  api:
+    build:
+      context: ..
+      dockerfile: MovieAPI/Dockerfile
+    container_name: docker-api-1
+    depends_on:
+      database:
+        condition: service_healthy
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=database;Port=5432;Database=moviesdb;Username=user;Password=password
+    ports:
+      - "5001:5001"
+    networks:
+      - mynetwork
+
+networks:
+  mynetwork:
+
+
+volumes:
+  postgres_data:
